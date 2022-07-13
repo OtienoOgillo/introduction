@@ -1,0 +1,74 @@
+
+
+.heading{
+    background-color: lightblue;
+}
+.secfull{
+    background-image: url("./images/hos2.jpg");
+    padding-left: 1cm;
+    background-size: cover;
+    margin-top: none;
+
+}
+
+.firstname{
+    margin-right: 2cm;
+}
+
+.sname{
+    margin-right: 2cm;
+}
+
+.pdetails{
+    margin-bottom: 4mm;
+}
+.dob{
+    margin-right: 1.6cm;
+    padding-right: 1cm;
+}
+.msta{
+    margin-left: 2cm;
+}
+.married{
+    padding-right: 1cm;
+    margin-right: 10cm;
+}
+.rwk{
+    margin-top: 4mm;
+}
+.srwk{
+    padding-right: 1cm;
+}
+.doa{
+    padding-right: 1cm;
+    margin-right: 3cm;
+}
+.pm{
+    margin-top: 4mm;
+}
+.pm1{
+    margin-left: 1cm;
+}
+.th{
+    size: 20px;
+}
+.submith{
+    margin-top: 10px;
+    margin-left: 1cm;
+    padding: 12px 10px;
+    background-color: darkgreen;
+    border-radius: 8px;
+}
+.submith value: hover{
+    background-color: black;
+    text-emphasis-color: dimgrey;
+}
+
+
+
+
+
+
+
+
+

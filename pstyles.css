@@ -1,0 +1,53 @@
+
+.img{
+    margin-top: 5mm;
+    margin-left: 5mm;
+}
+
+.portfolio{
+    margin-left: 5mm;
+    color: darkblue;
+    font-size: 20px;
+    font-family: Verdana;
+}
+.ho2{
+    float:right;
+    margin-right: 20cm;
+    font-size: 28px;
+    font-family: Calibri;
+    margin-top: 1.2cm;
+
+}
+.ee{
+    font-size: 19px;
+    margin-left: 5mm;
+}
+.sec{
+    margin-left: 5mm;
+    font-size: 19px;
+    float: left;
+}
+.sec2{
+    float: right;
+    margin-right: 15cm;
+}
+
+.sec2{
+    font-size: 19px;
+    float-wrap: none;
+}
+.sec3{
+    margin-top: 7cm;
+}
+.email{
+    color: darkblue;
+}
+
+
+
+
+
+
+
+
+

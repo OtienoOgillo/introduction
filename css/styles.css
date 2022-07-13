@@ -1,0 +1,99 @@
+
+
+.topnav{
+
+    background-color: lightgreen;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.topnav a:hover{
+    background-color: darkgray;
+    text-emphasis-color: black;
+
+}
+
+.landing{
+    background-image: url("../images/lion.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 12px 12px;
+}
+
+.landtext{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+
+.btn{
+    background-color: blue;
+    padding: 10px 10px;
+    border-radius: 6px;
+    color: white;
+    width: 10%;
+}
+
+.btn:hover{
+    background-color: darkgreen;
+    text-emphasis-color: black;
+}
+
+
+.separate{
+    margin-top: 5px;
+}
+
+.tablestyle{
+    width: 50%;
+    border: solid darkseagreen;
+    background-color: darkgrey;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.tablestyle td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tablestyle tr{
+    border: none;
+}
+
+.mytitle{
+    text-align: center;
+    font-size: 15px;
+    font-family: "Calibri Light";
+    color: BLack;
+    margin-top: 5cm;
+    margin-bottom: 5cm;
+}
+.flexbox{
+    display: flex;
+    margin-top: 5px;
+}
+
+.flexbox div{
+    margin: 8px;
+    padding: 8px;
+}
+
+.flexbox p{
+    border: 1px black;
+    text-align: center;
+}
+.flexbox h3{
+    text-align: center;
+    font-family: monospace;
+}
+

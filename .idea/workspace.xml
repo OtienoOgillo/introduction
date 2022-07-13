@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2023615-b16c-4c97-a04e-9455d2182ee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28LU8e4DQeoHQ97McZEkRS2U0Qg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/motor project&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Henry Ogillo\PhpstormProjects\html file\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Henry Ogillo\PhpstormProjects\html file" />
+      <recent name="C:\Users\Henry Ogillo\PhpstormProjects\html file\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2023615-b16c-4c97-a04e-9455d2182ee0" name="Default Changelist" comment="" />
+      <created>1650995219964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650995219964</updated>
+      <workItem from="1650995224166" duration="7121000" />
+      <workItem from="1651039820200" duration="623000" />
+      <workItem from="1651041445143" duration="287000" />
+      <workItem from="1651042476778" duration="978000" />
+      <workItem from="1651044383320" duration="2191000" />
+      <workItem from="1651076318595" duration="7927000" />
+      <workItem from="1651124455933" duration="4035000" />
+      <workItem from="1651128907591" duration="7765000" />
+      <workItem from="1651162493422" duration="31016000" />
+      <workItem from="1651473185298" duration="9199000" />
+      <workItem from="1651643244931" duration="7407000" />
+      <workItem from="1653385010220" duration="23000" />
+      <workItem from="1653385083357" duration="6000" />
+      <workItem from="1653456185721" duration="32000" />
+      <workItem from="1653546921283" duration="3979000" />
+      <workItem from="1653729870901" duration="46000" />
+      <workItem from="1653749796158" duration="4000" />
+      <workItem from="1653979499772" duration="1237000" />
+      <workItem from="1654180660091" duration="4000" />
+      <workItem from="1654497679452" duration="607000" />
+      <workItem from="1654700326783" duration="168000" />
+      <workItem from="1655020823460" duration="639000" />
+      <workItem from="1657697166691" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

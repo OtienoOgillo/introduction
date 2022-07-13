@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> exerciseone.html </title>
+    <link rel="stylesheet" href="css/mstyles.css">
+
+    <style>
+
+        table{
+            width: 70%;
+            border: 2px solid;
+            border-color: black;
+            background-color: gray;
+
+        }
+
+        th,td {
+            border: 2px solid;
+            padding: 10px;
+            border-collapse: collapse;
+        }
+
+        form{
+            padding: 20px;
+            background-color: aliceblue;
+            width: 60%;
+        }
+        div{
+            padding: 10px;
+            border: 1px solid black;
+        }
+        
+        .submit{
+            border-radius: 8px;
+            box-sizing: border-box;
+            border: 1px solid black;
+            background-color:green;
+            padding-right: 7mm;
+            margin-left: 4cm;
+            padding-bottom: 0.3cm;
+            font-size: larger;
+        }
+
+        .submit input:hover;{
+            background-color: blue;
+            text-emphasis-color: white;
+        }
+
+        .dogbreed{
+            padding-right: 2cm;
+        }
+        .pnumber{
+            padding-right: 3cm;
+        }
+
+
+        .fullname{
+            padding-right: 8cm;
+        }
+
+    </style>
+</head>
+<body>
+    <h4 style="text-align: center"> Welcome to the pet store. </h4>
+
+    <center><img style="text-align: center;" src="images/dog.jpg" alt="loading"></center>
+
+    <p style"width: 70%"> This is Majimboni Pet Store. It deals with dogs which are
+    bred by the owners.
+    There are a variety of breeds such a Bloodhound, Chiwawa, Bulldog and
+    German Shepherd.</p>
+
+    <table>
+        <tr>
+            <th>Dog breed</th>
+            <th>Average Weight</th>
+            <th>price</th>
+        </tr>
+
+        <tr>
+            <td>German Shepherd</td>
+            <td>50kg</td>
+            <td>15,000</td>
+        </tr>
+
+        <tr>
+            <td>Bloodhound</td>
+            <td>42kg</td>
+            <td>13,500</td>
+        </tr>
+
+        <tr>
+            <td>Chiwawa</td>
+            <td>30kg</td>
+            <td>8,500</td>
+        </tr>
+
+        <tr>
+            <td>Bulldog</td>
+            <td>55kg</td>
+            <td>17,000</td>
+        </tr>
+        </table>
+
+
+    <p>Please fill in this form if you want to get a dog.</p>
+
+    <form action="|">
+        <div>
+        <label>Full Name</label>
+        <input class="fullname" type="text"="Full Name">
+        </div>
+
+        <div>
+            <label>Phone Number</label>
+            <input class="pnumber" type="tell"="Phone Number">
+        </div>
+        <div>
+            <label>Dog breed</label>
+            <select class="dogbreed" name="Dog breed"id=Dog breed><br>
+                <option value="German Shepherd">German Shepherd</option>
+                <option value="Chiwawa">Chiwawa</option>
+                <option value="Bulldog">Bulldog</option>
+                <option value="Bloodhound">Bloodhound</option>
+        </div>
+
+        <div>
+            <input class="submit" type="submit" value="SUBMIT" name="submit">
+        </div>
+    </form>
+
+</body>
+</html>
